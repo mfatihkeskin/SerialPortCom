@@ -21,6 +21,7 @@ ParityBits --> None
 Click Open Button
 
 - Run Teraterm for:
--                  Serial Port COMx
--                  
--                  
+![image](https://user-images.githubusercontent.com/70964563/139351289-0667569a-5265-4b9c-b2b0-576c535af709.png)
+Serial Port COMx
+
+##### Now, if you want, you can type a data in the "Tx screen" section and send it to Teraterm using the "Send Data" button, or you can send data via Teraterm and observe it on "Rx Screen" on wfa.
