@@ -1,6 +1,4 @@
-# SerialPortComunication C#
-
-## Virtual Port Communication
+# Virtual Serial Port Communication in C#
 
 ### Programs
 - VSPE
@@ -19,9 +17,9 @@
 - StopBits --> 1
 - ParityBits --> None
 - Click Open Button
-- 
+
 #### Run Teraterm for:
-- Serial Port COMx
+- Serial Port --> COMx
 - ![image](https://user-images.githubusercontent.com/70964563/139351289-0667569a-5265-4b9c-b2b0-576c535af709.png)
 
 
